@@ -1,0 +1,7 @@
+[
+  {
+    "connStr": "server = 127.0.0.1; port=5433; user id = postgres; password=root; database=ecommerce_crawler; Timeout=1000; CommandTimeout=1000;",
+    "apiKey": "$2y$10$tAajJXlhdqDfGi8CppFN3.KWnofLUVE03gknOyEDv9OBAcypda9MO",
+    "apiUrl": "https://ecommerce-api-with-jwt.herokuapp.com/api/products"
+  }
+]
